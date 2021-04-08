@@ -11,6 +11,11 @@
  - Vue
  - Vuetify
  - Vue-router
+
+<p align="center">
+  <img alt="project src="./projeto.png" width="35%">
+</p>
+
 ## Project setup
 ```
 npm install
