@@ -16,7 +16,7 @@
  - Vue
  - Vuetify
  - Vue-router
- - 
+ 
 # Project setup
 ```
 npm install
