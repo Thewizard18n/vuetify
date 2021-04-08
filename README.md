@@ -7,7 +7,7 @@
  
  </div>
  <div align="center">
-  <img alt="project" src="./projeto.png" width="80%">
+  <img alt="project" src="./projeto.png" width="50%">
 </div>
 
 # # 👷 Tools 👷
