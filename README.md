@@ -6,15 +6,16 @@
  
  
  </div>
+ <div align="center">
+  <img alt="project" src="./projeto.png" width="80%">
+</div>
 
 # # 👷 Tools 👷
  - Vue
  - Vuetify
  - Vue-router
 
-<div align="center">
-  <img alt="project" src="./projeto.png" width="80%">
-</div>
+
 
 ## Project setup
 ```
