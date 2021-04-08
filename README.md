@@ -13,7 +13,7 @@
  - Vue-router
 
 <p align="center">
-  <img alt="project" src="./projeto.png" width="90%">
+  <img alt="project" src="./projeto.png" width="80%">
 </p>
 
 ## Project setup
