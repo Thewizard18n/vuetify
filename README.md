@@ -12,9 +12,9 @@
  - Vuetify
  - Vue-router
 
-<p align="center">
+<div align="center">
   <img alt="project" src="./projeto.png" width="80%">
-</p>
+</div>
 
 ## Project setup
 ```
